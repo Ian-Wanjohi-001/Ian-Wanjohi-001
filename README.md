@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ian-Wanjohi-001
 👀 I’m interested in web development , software engineering and networking .
 🌱 I’m currently learning bsc computer science.
-💞 I’m looking to collaborate on creating responsive websites.
+💞 I’m ready to collaborate on creating responsive websites and user friendly softwares.
 📫 reach me on jacksonmwangi1895@gmail.com
 
 
